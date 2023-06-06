@@ -1,0 +1,15 @@
+* {
+    --rad : 0.4rem;
+}
+body{
+    background-color:  #f0f8fb;
+}
+
+#sign_up{
+    background-color: rgb(3, 190, 0);
+    color: white;
+    border-radius: var(--rad);
+}
+#sign_up:hover{
+background-color: #1c930f;
+}
